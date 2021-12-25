@@ -1,0 +1,15 @@
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\bin\Debug\ZMusicPlayer.exe.config
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\bin\Debug\ZMusicPlayer.exe
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\bin\Debug\ZMusicPlayer.pdb
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\ZMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\ZMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\ZMusicPlayer.Form1.resources
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\ZMusicPlayer.Properties.Resources.resources
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\ZMusicPlayer.csproj.GenerateResource.cache
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\ZMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\ZMusicPlayer.exe
+C:\Users\SONY\source\repos\ZMusicPlayer\ZMusicPlayer\obj\Debug\ZMusicPlayer.pdb
