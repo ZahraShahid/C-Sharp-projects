@@ -1,0 +1,10 @@
+C:\Users\SONY\source\repos\Splash\Splash\bin\Debug\Splash.exe.config
+C:\Users\SONY\source\repos\Splash\Splash\bin\Debug\Splash.exe
+C:\Users\SONY\source\repos\Splash\Splash\bin\Debug\Splash.pdb
+C:\Users\SONY\source\repos\Splash\Splash\obj\Debug\Splash.csproj.AssemblyReference.cache
+C:\Users\SONY\source\repos\Splash\Splash\obj\Debug\Splash.Form1.resources
+C:\Users\SONY\source\repos\Splash\Splash\obj\Debug\Splash.Properties.Resources.resources
+C:\Users\SONY\source\repos\Splash\Splash\obj\Debug\Splash.csproj.GenerateResource.cache
+C:\Users\SONY\source\repos\Splash\Splash\obj\Debug\Splash.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\Splash\Splash\obj\Debug\Splash.exe
+C:\Users\SONY\source\repos\Splash\Splash\obj\Debug\Splash.pdb
