@@ -1,0 +1,10 @@
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\bin\Debug\Z Image Uploader.exe.config
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\bin\Debug\Z Image Uploader.exe
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\bin\Debug\Z Image Uploader.pdb
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\obj\Debug\Z Image Uploader.csproj.AssemblyReference.cache
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\obj\Debug\Z_Image_Uploader.Form1.resources
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\obj\Debug\Z_Image_Uploader.Properties.Resources.resources
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\obj\Debug\Z Image Uploader.csproj.GenerateResource.cache
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\obj\Debug\Z Image Uploader.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\obj\Debug\Z Image Uploader.exe
+C:\Users\SONY\source\repos\Z Image Uploader\Z Image Uploader\obj\Debug\Z Image Uploader.pdb
